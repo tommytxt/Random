@@ -1,4 +1,4 @@
 function FindProxyForURL(url, host)
 { 
-     return "SOCKS connect.tomrogers.co.uk:1607";
+     return "SOCKS connect.192.168.0.2:1607";
 }
